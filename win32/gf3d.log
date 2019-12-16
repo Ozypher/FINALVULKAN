@@ -1,0 +1,820 @@
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 12
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:26: discovered 16 validation layers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_NV_optimus
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_overlay
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_fossilize
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_api_dump
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_assistant_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_core_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_device_simulation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_KHRONOS_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_monitor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_object_tracker
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_screenshot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_standard_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_parameter_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_threading
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_unique_objects
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_vktrace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphic:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 12
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:26: discovered 16 validation layers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_NV_optimus
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_overlay
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_fossilize
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_api_dump
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_assistant_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_core_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_device_simulation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_KHRONOS_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_monitor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_object_tracker
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_screenshot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_standard_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_parameter_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_threading
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_unique_objects
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_vktrace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphic:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:26: discovered 16 validation layers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_NV_optimus
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_overlay
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_VALVE_steam_fossilize
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_api_dump
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_assistant_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_core_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_device_simulation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_KHRONOS_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_monitor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_object_tracker
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_screenshot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_standard_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_LUNARG_parameter_validation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_threading
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_validation.c:37: Validation layer available: VK_LAYER_GOOGLE_unique_objects
+c:\users\ozyfur\documents\vulkanreal\gf3d\c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:36: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:38: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 1 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:52: device supports 4 surface formats
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:60: format: 37
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:61: colorspace: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_swapchain.c:59: surface format 1:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_sc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:53: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:215: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:276: vulkan discovered 2 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: GeForce GTX 1050
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4198509
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 1829502976
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:479: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:480: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:481: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:482: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:483: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:67: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:281: vulkan discovered 2 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: GeForce GTX 1050
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4198509
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 1829502976
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:78: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:281: vulkan discovered 2 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: GeForce GTX 1050
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4198509
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 1829502976
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\documc:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c:78: gf3d begin
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:68: Total available instance extensions: 13
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_device_group_creation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_fence_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_external_semaphore_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_physical_device_properties2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_get_surface_capabilities2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_surface_protected_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_report
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_debug_utils
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_EXT_swapchain_colorspace
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:81: available instance extension: VK_NV_external_memory_capabilities
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:220: SDL Vulkan extensions support: VK_KHR_win32_surface
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:281: vulkan discovered 2 device(s) with this instance
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: GeForce GTX 1050
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4198509
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 1829502976
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:484: Device Name: Intel(R) HD Graphics 630
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:485: Dedicated GPU: 0
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:486: apiVersion: 4194370
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:487: driverVersion: 65538
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vgraphics.c:488: supports Geometry Shader: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:66: discoverd 1 queue family properties
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:69: Queue family 0:
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:70: queue flag bits 15
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:71: queue count 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:72: queue timestamp valid bits 36
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:76: queue min image transfer granularity 1w 1h 1d
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:86: Queue handles graphics calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:92: Queue handles transfer calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:98: Queue handles present calls
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:101: using queue family 0 for graphics commands
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:102: using queue family 0 for rendering pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:103: using queue family 0 for transfer pipeline
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_vqueues.c:121: work queue count: 1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:30: Total available device extensions: 30
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_swapchain
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_memory_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_external_memory_host
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_semaphore_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_external_fence_win32
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_get_memory_requirements2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_bind_memory2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_dedicated_allocation
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_mirror_clamp_to_edge
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance1
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_maintenance2
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_shader_draw_parameters
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_push_descriptor
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_descriptor_update_template
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_16bit_storage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_ballot
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_subgroup_vote
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_storage_buffer_storage_class
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_variable_pointers
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_relaxed_block_layout
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sampler_filter_minmax
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_KHR_sampler_ycbcr_conversion
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_post_depth_coverage
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_viewport_index_layer
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_shader_stencil_export
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_conservative_rasterization
+c:\users\ozyfur\documents\vulkanreal\gf3d\src\gf3d_extensions.c:44: available device extension: VK_EXT_sample_locations
+c:\users\ozyfur\docum

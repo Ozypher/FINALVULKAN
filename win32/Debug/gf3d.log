@@ -1,0 +1,71 @@
+﻿Build started 12/16/2019 9:28:27 AM.
+     1>Project "C:\Users\Ozyfur\Documents\VULKANREAL\gf3d\win32\gf3d.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\game.c
+         game.c
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(24): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(100): warning C4305: 'function' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(160): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(352): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(353): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(354): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(356): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(365): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(366): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(367): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(369): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(378): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(379): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(380): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(382): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(402): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(414): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(419): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(429): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(462): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(491): warning C4244: 'function' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\ozyfur\documents\vulkanreal\gf3d\src\game.c(50): warning C4101: 'ent' : unreferenced local variable
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\gf3d.exe" /INCREMENTAL /NOLOGO sdl2_ttf.lib sdl2_mixer.lib sdl2_image.lib SDL2.lib SDL2main.lib "vulkan-1.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\gf3d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\gf3d.lib" /MACHINE:X86 Debug\simple_json.obj
+         Debug\simple_json_array.obj
+         Debug\simple_json_error.obj
+         Debug\simple_json_list.obj
+         Debug\simple_json_object.obj
+         Debug\simple_json_parse.obj
+         Debug\simple_json_string.obj
+         Debug\simple_logger.obj
+         Debug\gfc_audio.obj
+         Debug\gfc_callbacks.obj
+         Debug\gfc_input.obj
+         Debug\gfc_list.obj
+         Debug\gfc_matrix.obj
+         Debug\gfc_text.obj
+         Debug\gfc_types.obj
+         Debug\gfc_vector.obj
+         Debug\game.obj
+         Debug\game_powerups.obj
+         Debug\gf3d_camera.obj
+         Debug\gf3d_collision.obj
+         Debug\gf3d_commands.obj
+         Debug\gf3d_create_obj.obj
+         Debug\gf3d_cube.obj
+         Debug\gf3d_entity.obj
+         Debug\gf3d_extensions.obj
+         Debug\gf3d_mesh.obj
+         Debug\gf3d_model.obj
+         Debug\gf3d_obj_load.obj
+         Debug\gf3d_physics.obj
+         Debug\gf3d_pipeline.obj
+         Debug\gf3d_shaders.obj
+         Debug\gf3d_sprite.obj
+         Debug\gf3d_swapchain.obj
+         Debug\gf3d_texture.obj
+         Debug\gf3d_validation.obj
+         Debug\gf3d_vgraphics.obj
+         Debug\gf3d_vqueues.obj
+         gf3d.vcxproj -> C:\Users\Ozyfur\Documents\VULKANREAL\gf3d\win32\..\gf3d.exe
+     1>Done Building Project "C:\Users\Ozyfur\Documents\VULKANREAL\gf3d\win32\gf3d.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63
